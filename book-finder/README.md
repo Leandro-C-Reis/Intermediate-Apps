@@ -1,1 +1,1 @@
-# [Book Finder WebSite](https://leandro-c-reis.github.io/intermediate-apps/book-finder)
+# [Book Finder WebSite](https://leandro-c-reis.github.io/Intermediate-Apps/book-finder)
