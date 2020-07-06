@@ -12,6 +12,7 @@ export default function CreateElements(response)
     //main div element
     let mainDiv = document.createElement("div");
     mainDiv.setAttribute("id", `book${i}`);
+    mainDiv.setAttribute("class", "responsive");
     
     let a = document.createElement("a");
     //creating a image element
