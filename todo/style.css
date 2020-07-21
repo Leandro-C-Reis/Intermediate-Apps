@@ -16,7 +16,7 @@ body
     width: 600px;
     min-height: 800px;
 
-    background: #FFF;
+    background: #FFFFFF;
     border: 2px solid #000;
     border-radius: 14px;
 
@@ -76,7 +76,7 @@ body
 .container .todoList li
 {
     border-radius: 4px;
-    background: #F4F4F4;
+    background: #d9d9d9;
     padding: 1rem;
     margin: 0 0 16px;
 
